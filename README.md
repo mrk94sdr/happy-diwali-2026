@@ -1,11 +1,9 @@
 <p align="center">
   <img src="./diwali-banner.png" width="100%" alt="Happy Diwali - Raj Maurya"/>
 </p>
+
 # 🪔✨ HAPPY DIWALI 2026 ✨🪔
 
-<p align="center">
-  <img src="diwali-banner.png" width="100%" alt="Happy Diwali - Raj Maurya"/>
-</p>
 
 <h1 align="center">🎆 शुभ दीपावली 🎆</h1>
 
