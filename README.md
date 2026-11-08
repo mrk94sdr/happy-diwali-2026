@@ -2,36 +2,52 @@
   <img src="./diwali-banner.png" width="100%" alt="Happy Diwali - Raj Maurya"/>
 </p>
 
-             # 🪔✨ HAPPY DIWALI 2026 ✨🪔
-
-
-<h1 align="center">🎆 शुभ दीपावली 🎆</h1>
-
-<h3 align="center">Wishing You and Your Family a Very Happy Diwali!</h3>
+          
+# 🪔 शुभ दीपावली 2026 🪔
 
 <p align="center">
-  May this festival bring happiness, prosperity, success and endless opportunities into your life.
+  <img src="./diwali-banner.png" width="100%" alt="Diwali Banner"/>
 </p>
+
+<div align="center">
+
+## ❤️ Welcome to My Diwali Celebration ❤️
+
+### ✨ Wishing You Happiness, Success & Prosperity ✨
+
+![Happy](https://img.shields.io/badge/Spread-Happiness-ff69b4?style=for-the-badge)
+![Love](https://img.shields.io/badge/Spread-Love-9b59b6?style=for-the-badge)
+![Light](https://img.shields.io/badge/Spread-Light-FFD700?style=for-the-badge)
+
+</div>
 
 ---
 
-### 🪔 May this Diwali bring:
+### 🌸 May Your Life Be Filled With:
 
-- ❤️ Love into your heart
-- 😊 Happiness into your home
-- 💰 Prosperity into your family
-- 🚀 Success into your career
-- ✨ Bright opportunities into your future
+| 🪔 Blessings | ✨ Wishes |
+|---|---|
+| ❤️ Love | 😊 Happiness |
+| 💰 Prosperity | 🚀 Success |
+| 🌟 Positivity | 🙏 Good Health |
 
-### 🙏 दिल से शुभकामनाएं
+---
 
-दीप जलें तो रोशन आपका जहान हो,
-खुशियों से भरा आपका हर अरमान हो।
-माँ लक्ष्मी की कृपा सदा बनी रहे,
+<div align="center">
+
+### 🙏 दिल से शुभकामनाएं 🙏
+
+दीप जलें तो रोशन आपका जहान हो,  
+खुशियों से भरा आपका हर अरमान हो।  
+माँ लक्ष्मी की कृपा सदा बनी रहे,  
 आपके जीवन में सुख-समृद्धि का वास हो।
 
 ---
 
-<h2 align="center">✨ SPREAD LOVE • SPREAD LIGHT • SPREAD HAPPINESS ✨</h2>
+# 🎆 HAPPY DIWALI 2026 🎆
 
-<h3 align="center">❤️ Wishes from Raj Maurya ❤️</h3>
+### ❤️ Wishes From Raj Maurya ❤️
+
+**Spread Love • Spread Light • Spread Happiness**
+
+</div>
